@@ -1,4 +1,6 @@
 # Angular QuickStart Source
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/timestep/quickstart-angular2.svg)](https://greenkeeper.io/)
 [![Build Status][travis-badge]][travis-badge-url]
 
 This repository holds the TypeScript source code of the [angular.io quickstart](https://angular.io/docs/ts/latest/quickstart.html),
